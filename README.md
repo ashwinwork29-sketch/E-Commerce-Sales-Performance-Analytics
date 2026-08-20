@@ -55,7 +55,7 @@ Business Insights
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Dashboard](ecommercesalesandanlysis.png)
+![E-Commerce Dashboard](Ecommercedashboard.png)
 
 ## 👨‍💻 Skills Demonstrated
 
